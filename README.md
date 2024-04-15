@@ -6,11 +6,11 @@ The Sales Insight Project is a data analysis and visualization project aimed at 
 
 ## Features
 
-**Data Import**: Import sales data into an SQL database.</br>
-**Data Cleaning**: Clean and preprocess the data within the SQL database to remove duplicates and handle missing values.</br>
-**Data Analysis**: Perform various analyses using SQL queries, such as sales trends, product performance, and customer segmentation.</br>
-**Data Visualization**: Visualize the analyzed data using SQL queries to generate charts and graphs for easy understanding.</br>
-**Insight Generation**: Generate actionable insights from the analyzed data using SQL queries to improve sales strategies.</br>
+1. **Data Import**: Import sales data into an SQL database.</br>
+2. **Data Cleaning**: Clean and preprocess the data within the SQL database to remove duplicates and handle missing values.</br>
+3. **Data Analysis**: Perform various analyses using SQL queries, such as sales trends, product performance, and customer segmentation.</br>
+4. **Data Visualization**: Visualize the analyzed data using SQL queries to generate charts and graphs for easy understanding.</br>
+5. **Insight Generation**: Generate actionable insights from the analyzed data using SQL queries to improve sales strategies.</br>
 
 ## Installation
 1. Download and install Power BI Desktop.
