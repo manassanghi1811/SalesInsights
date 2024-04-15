@@ -1,0 +1,1 @@
+select sum(transactions.sales_amount) from transactions inner join date on transactions.order_date = date.date where date.year='2020' and date.month_name='January';
