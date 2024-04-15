@@ -1,9 +1,11 @@
 # SalesInsights
 
-Overview
+#Overview
+
 The Sales Insight Project is a data analysis and visualization project aimed at providing insights into sales performance. By analyzing sales data using SQL, the project aims to help stakeholders make informed decisions to improve sales strategies and increase revenue.
 
-Features
+#Features
+
 Data Import: Import sales data into an SQL database.
 Data Cleaning: Clean and preprocess the data within the SQL database to remove duplicates and handle missing values.
 Data Analysis: Perform various analyses using SQL queries, such as sales trends, product performance, and customer segmentation.
